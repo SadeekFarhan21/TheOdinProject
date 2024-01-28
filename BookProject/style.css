@@ -1,0 +1,18 @@
+body {
+    background-color: #565765
+
+}
+.title {
+    text-align: center;
+    color:white;
+    font-variant:initial;
+}
+
+.addMe { 
+    background-color: white;
+    text-align: center;
+    font-style: oblique;
+    font-stretch: extra-expanded;
+    font-size: medium;
+    font-family: cursive;
+}
